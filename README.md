@@ -4,7 +4,7 @@ Welcome to my personal repository where I document my learning journey with Sele
 
 ## About Me
 
-I am [Your Name], a passionate learner with a keen interest in software testing and automation. This repository is a record of my efforts to become proficient in using Selenium with Java to automate web testing tasks.
+I am Sundarraj R, a passionate learner with a keen interest in software testing and automation. This repository is a record of my efforts to become proficient in using Selenium with Java to automate web testing tasks.
 
 ## Learning Objectives
 
@@ -50,6 +50,6 @@ Your feedback, suggestions, and contributions are highly encouraged! If you have
 
 ## Connect with Me
 
-Let's learn together! Connect with me on [LinkedIn]((https://www.linkedin.com/in/sundarraj-r/)) to share insights, collaborate on projects, or discuss Selenium, Java, and test automation in general.
+Let's learn together! Connect with me on [LinkedIn](https://www.linkedin.com/in/sundarraj-r/) to share insights, collaborate on projects, or discuss Selenium, Java, and test automation in general.
 
 Happy testing and learning!
